@@ -38,7 +38,7 @@ ipython notebooks are files with a `.ipynb` extension. if all files specified on
 store your gist's data permanently, but does cache it for ~10 minutes
 
 ### install
-`pip install nbviewer` or clone the repo and `python setup.py install`
+`pip install notebook-viewer` or clone the repo and `python setup.py install`
 
 [gister](https://github.com/tr3buchet/gister) is required so you might want to pop over and checkout the conguration, not to worry
 it will work out of the box, but everything will be created anonymously

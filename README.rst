@@ -52,7 +52,7 @@ cache it for ~10 minutes
 install
 ~~~~~~~
 
-``pip install nbviewer`` or clone the repo and
+``pip install notebook-viewer`` or clone the repo and
 ``python setup.py install``
 
 `gister <https://github.com/tr3buchet/gister>`__ is required so you

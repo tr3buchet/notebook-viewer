@@ -45,6 +45,7 @@ def get_files():
 def print_nbviewer_url():
     args = parse_arguments()
     files = get_files()
+    description = 'created by https://github.com/tr3buchet/notebook-viewer'
 
     print gister.create_gist(anonymous=args.anonymous, files=files,
-                             edit=args.edit)
+                             description=description, edit=args.edit)
