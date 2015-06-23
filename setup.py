@@ -26,7 +26,7 @@ if sys.version_info < (2, 7):
 
 setup(
     name='notebook-viewer',
-    version='1.0.0',
+    version='1.0.1',
     author='Trey Morris',
     author_email='trey@treymorris.com',
     description='ipython notebook link generation script',
